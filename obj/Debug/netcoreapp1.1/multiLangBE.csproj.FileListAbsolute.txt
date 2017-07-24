@@ -1,0 +1,8 @@
+D:\multiLangBE\bin\Debug\netcoreapp1.1\multiLangBE.deps.json
+D:\multiLangBE\bin\Debug\netcoreapp1.1\multiLangBE.runtimeconfig.json
+D:\multiLangBE\bin\Debug\netcoreapp1.1\multiLangBE.runtimeconfig.dev.json
+D:\multiLangBE\bin\Debug\netcoreapp1.1\multiLangBE.dll
+D:\multiLangBE\bin\Debug\netcoreapp1.1\multiLangBE.pdb
+D:\multiLangBE\obj\Debug\netcoreapp1.1\multiLangBE.AssemblyInfo.cs
+D:\multiLangBE\obj\Debug\netcoreapp1.1\multiLangBE.dll
+D:\multiLangBE\obj\Debug\netcoreapp1.1\multiLangBE.pdb
